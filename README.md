@@ -26,12 +26,3 @@ local: Teresina, Piauí — Brasil
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&amp;logo=linux&amp;logoColor=3FB950" alt="Linux" />
 </p>
 
-$ cat contatos.txt
-<p>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-238636?style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jonamepe304@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-238636?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="E-mail" />
-  </a>
-</p>
