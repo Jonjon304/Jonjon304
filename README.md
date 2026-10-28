@@ -1,1 +1,28 @@
-<div align="center"> <h1>Jonathan Melo</h1> <p><b>Estudante de Ciência da Computação &nbsp;·&nbsp; Suporte de TI</b></p> <p><sub>Teresina, Piauí · Brasil</sub></p> <p> <!-- Troque pelos seus links e apague o que não for usar --> <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a> </p> </div> <hr /> <h3>Sobre mim</h3> <p> Estudante de Ciência da Computação (7º semestre, Estácio) e estagiário de suporte de TI no CREA-PI. Tenho foco em <b>desenvolvimento web</b> e <b>infraestrutura Linux</b>, e aprendo construindo projetos práticos. </p> <ul> <li>Desenvolvendo um sistema web de gestão de equipamentos e manutenções de TI</li> <li>Estudando Node.js, React e Flask</li> <li>Interesse em redes, virtualização e segurança</li> </ul> <h3>Tecnologias</h3> <p> <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,flask,bootstrap,postgres,sqlite,git,docker,linux&theme=dark" alt="HTML, CSS, JavaScript, Python, Node.js, React, Flask, Bootstrap, PostgreSQL, SQLite, Git, Docker, Linux" /> </p> <h3>Estatísticas</h3> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonjon304&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&custom_title=Linguagens%20mais%20usadas" /> <img height="150" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonjon304&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&custom_title=Linguagens%20mais%20usadas" /> </picture>
+<div align="center">
+  <h1>Jonathan Melo</h1>
+  <p><strong>Desenvolvimento Web · Linux · Suporte de TI</strong></p>
+  <p>Teresina, Piauí · Brasil</p>
+</div>
+
+## Sobre mim
+
+Estudante de **Ciência da Computação na Estácio** e estagiário de
+**suporte de TI no CREA-PI**, com foco em desenvolvimento web e
+infraestrutura Linux.
+
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,postgres,sqlite,git,docker,linux&perline=10" alt="HTML, CSS, JavaScript, Python, Bootstrap, PostgreSQL, SQLite, Git, Docker e Linux" />
+</p>
+
+**Em estudo:** Node.js, React e Flask.
+
+## Contatos
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="mailto:jonamepe304@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
