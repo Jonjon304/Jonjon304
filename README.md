@@ -3,13 +3,17 @@
   <p><samp>Desenvolvimento Web · Linux · Suporte de TI</samp></p>
 </div>
 
-$ whoami
+### `$ whoami`
+
+```yaml
 usuario: Jonjon304
 formacao: Ciência da Computação — Estácio
 atuacao: Estagiário de Suporte de TI — CREA-PI
 foco: Desenvolvimento web e infraestrutura Linux
 local: Teresina, Piauí — Brasil
-$ ls tecnologias/
+```
+
+### `$ ls tecnologias/`
 <p>
   <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&amp;logo=html5&amp;logoColor=3FB950" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&amp;logo=css&amp;logoColor=3FB950" alt="CSS" />
